@@ -1,2 +1,1 @@
-chiw@google.com
-srhines@google.com
+include platform/prebuilts/rust:master:/OWNERS
